@@ -57,8 +57,12 @@ function createCard(obj){
     divAuthor.appendChild(imgContainer);
     imgContainer.appendChild(authorsImg);
     divAuthor.appendChild(authorsName);
+    
+
 
 
     //
     return cardDiv;
 }
+
+
